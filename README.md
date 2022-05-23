@@ -1,4 +1,4 @@
-# api
+# API
 
 A new Flutter project.
 
