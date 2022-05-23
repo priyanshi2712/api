@@ -1,7 +1,7 @@
 # API
 
 ___
-[Traversy Media](https://WWW.traversymedia.com)
+[Traversy Media](https://pixabay.com)
 
 A new Flutter project.
 
